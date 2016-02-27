@@ -12,6 +12,27 @@ Change message body inside `gcm.js`
 $ node gcm.js
 ```
 
+----
+
+## Get message in Android under your listener server extending `GcmListenerService`
+```java
+
+ @Override
+    public void onMessageReceived(String from, Bundle data) {
+
+        Bundle notification_bundle = data.getBundle("notification");
+
+        String title = notification_bundle.getString("title") ;
+        String body = notification_bundle.getString("body") ;
+        String icon = notification_bundle.getString("icon") ;
+
+        // Implement you notification inside the below function
+        sendNotification(title,body, icon);
+    }
+
+
+```
+
 ------
 
 # node-gcm
