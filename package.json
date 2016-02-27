@@ -1,0 +1,19 @@
+{
+  "name": "gcm_server",
+  "version": "1.0.0",
+  "description": "gcm server",
+  "main": "gcm.js",
+  "scripts": {
+    "test": "DEBUG=node-gcm node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToothlessGear/node-gcm.git"
+  },
+  "author": "Nishant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToothlessGear/node-gcm/issues"
+  },
+  "homepage": "https://github.com/ToothlessGear/node-gcm#readme"
+}
