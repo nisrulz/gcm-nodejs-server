@@ -1,7 +1,7 @@
 # GCM Server
 
 ### Show some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/nisrulz/gcm-server.svg?style=social&label=Star)](https://github.com/nisrulz/gcm-server) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/gcm-server.svg?style=social&label=Fork)](https://github.com/nisrulz/gcm-server/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/gcm-server.svg?style=social&label=Watch)](https://github.com/nisrulz/gcm-server) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/gcm-server)  
+[![GitHub stars](https://img.shields.io/github/stars/nisrulz/gcm-nodejs-server.svg?style=social&label=Star)](https://github.com/nisrulz/gcm-nodejs-server) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/gcm-nodejs-server.svg?style=social&label=Fork)](https://github.com/nisrulz/gcm-nodejs-server/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/gcm-nodejs-server.svg?style=social&label=Watch)](https://github.com/nisrulz/gcm-nodejs-server) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/gcm-nodejs-server)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz) 
 
 
